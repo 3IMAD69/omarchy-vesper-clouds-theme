@@ -38,12 +38,16 @@ omarchy hyprland window transparency glassy
 
 Or use Appearance > Windows > Window Opacity in the Omarchy menu.
 
-For Neovim and VS Code, the matching colorschemes are
-[vesper.nvim](https://github.com/datsfilipe/vesper.nvim) and the
-[Vesper extension](https://marketplace.visualstudio.com/items?itemName=raunofreiberg.vesper).
+VS Code, VSCodium and Cursor get the real Vesper editor colors automatically:
+the theme ships Vesper's color theme as `vscode-theme.json`, which Omarchy
+loads as its local theme, with no extension to install.
+
+Neovim gets colors generated from the palette. For the real thing, install
+[vesper.nvim](https://github.com/datsfilipe/vesper.nvim).
 
 ## Credits
 
-- Palette: [Vesper](https://github.com/raunofreiberg/vesper) by Rauno Freiberg
+- Palette and VS Code theme: [Vesper](https://github.com/raunofreiberg/vesper) by Rauno Freiberg,
+  MIT licensed (see `LICENSE-vesper.txt`)
 - Wallpapers: from Perplexity's PPLX wallpaper series, via
   [advtszn/dotfiles](https://github.com/advtszn/dotfiles). All rights belong to their owners.
