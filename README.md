@@ -45,5 +45,5 @@ For Neovim and VS Code, the matching colorschemes are
 ## Credits
 
 - Palette: [Vesper](https://github.com/raunofreiberg/vesper) by Rauno Freiberg
-- Wallpaper: from Perplexity's PPLX wallpaper series, via
+- Wallpapers: from Perplexity's PPLX wallpaper series, via
   [advtszn/dotfiles](https://github.com/advtszn/dotfiles). All rights belong to their owners.
