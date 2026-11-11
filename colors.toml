@@ -1,0 +1,37 @@
+mode = "dark"
+
+# Vesper (raunofreiberg/vesper), after advtszn/dotfiles
+accent = "#ffc799"
+cursor = "#ffc799"
+selection = "#232323"
+muted = "#505050"
+
+background = "#101010"
+dark_background = "#0b0b0b"
+darker_background = "#070707"
+lighter_background = "#181818"
+
+foreground = "#dadada"
+dark_foreground = "#505050"
+light_foreground = "#a0a0a0"
+bright_foreground = "#ffffff"
+
+red = "#ff8080"
+yellow = "#ffc799"
+orange = "#ffc799"
+green = "#99ffe4"
+cyan = "#50b5aa"
+blue = "#a0a0a0"
+magenta = "#ffc799"
+brown = "#8a6a50"
+
+bright_red = "#ff9999"
+bright_yellow = "#ffcfa8"
+bright_green = "#b8ffec"
+bright_cyan = "#99ffe4"
+bright_blue = "#b0b0b0"
+bright_magenta = "#ffcfa8"
+
+# Grey focus / dim rest, like the rice's JankyBorders
+hyprland_active_border = "rgba(a0a0a0ff)"
+hyprland_inactive_border = "rgba(303030ff)"
