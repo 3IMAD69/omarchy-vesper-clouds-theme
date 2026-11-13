@@ -28,6 +28,21 @@ omarchy theme install https://github.com/3IMAD69/omarchy-vesper-clouds-theme
 Window borders are grey on the focused window and dim on the rest, in place of
 the usual accent-colored border.
 
+## Wallpapers
+
+Four wallpapers ship with the theme. Cycle through them with Super + Ctrl + Space.
+
+<table>
+  <tr>
+    <td><img alt="Silhouette above the clouds" src="https://github.com/user-attachments/assets/f87a0efd-3666-490b-8439-44988602d7a9" /></td>
+    <td><img alt="Cave explorer under starlight" src="https://github.com/user-attachments/assets/4f2e75f8-a8ba-4b3b-94fb-d593bb586cb9" /></td>
+  </tr>
+  <tr>
+    <td><img alt="Misty garden" src="https://github.com/user-attachments/assets/7b1bc753-b069-4f41-a012-db4c0e0bdd02" /></td>
+    <td><img alt="Bonsai and prism" src="https://github.com/user-attachments/assets/8c36f2ff-bf61-48a0-8684-62578989c4aa" /></td>
+  </tr>
+</table>
+
 ## Recommended
 
 For the frosted-glass look in the preview, turn on glassy windows:
