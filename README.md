@@ -30,7 +30,7 @@ the usual accent-colored border.
 
 ## Wallpapers
 
-Four wallpapers ship with the theme. Cycle through them with Super + Ctrl + Space.
+Nine wallpapers ship with the theme. Cycle through them with Super + Ctrl + Space.
 
 <table>
   <tr>
@@ -40,6 +40,18 @@ Four wallpapers ship with the theme. Cycle through them with Super + Ctrl + Spac
   <tr>
     <td><img alt="Misty garden" src="https://github.com/user-attachments/assets/7b1bc753-b069-4f41-a012-db4c0e0bdd02" /></td>
     <td><img alt="Bonsai and prism" src="https://github.com/user-attachments/assets/8c36f2ff-bf61-48a0-8684-62578989c4aa" /></td>
+  </tr>
+  <tr>
+    <td><img alt="Coastal window collage" src="https://github.com/user-attachments/assets/ab187e6f-17e2-4971-834b-75468eefb83a" /></td>
+    <td><img alt="Cosmic laptop" src="https://github.com/user-attachments/assets/f0ccc653-f6e8-45e6-b14e-999c0545bf36" /></td>
+  </tr>
+  <tr>
+    <td><img alt="Prism glass flowers" src="https://github.com/user-attachments/assets/7748bbc7-b8bb-43f2-b03b-7a56e3b207ca" /></td>
+    <td><img alt="Glass book garden" src="https://github.com/user-attachments/assets/4e80310a-687f-444a-b6c1-c4b4776671e8" /></td>
+  </tr>
+  <tr>
+    <td><img alt="Light streaks" src="https://github.com/user-attachments/assets/55680647-584c-402c-a5fe-ff0f3296ce73" /></td>
+    <td></td>
   </tr>
 </table>
 
