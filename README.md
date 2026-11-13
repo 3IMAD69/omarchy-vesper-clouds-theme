@@ -42,7 +42,7 @@ Nine wallpapers ship with the theme. Cycle through them with Super + Ctrl + Spac
     <td><img alt="Bonsai and prism" src="https://github.com/user-attachments/assets/8c36f2ff-bf61-48a0-8684-62578989c4aa" /></td>
   </tr>
   <tr>
-    <td><img alt="Glowing helix garden" src="backgrounds/5-glowing-helix-garden.png" /></td>
+    <td><img alt="Glowing helix garden" src="https://github.com/user-attachments/assets/42d49e13-0b02-4481-b36a-a1dae783cbb0" /></td>
     <td><img alt="Cosmic laptop" src="https://github.com/user-attachments/assets/f0ccc653-f6e8-45e6-b14e-999c0545bf36" /></td>
   </tr>
   <tr>
